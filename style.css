@@ -1,0 +1,26 @@
+
+.heading{
+    width: 100%;
+    font-size: 28px;
+    font-family: 'Square Peg', cursive;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.note{
+font-size: 25px;
+color: red;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    font-size: small;
+    background-color:darkgrey;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
